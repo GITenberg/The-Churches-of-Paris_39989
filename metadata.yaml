@@ -1,0 +1,32 @@
+_repo: The-Churches-of-Paris_39989
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39989-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Beale, Sophia
+    aliases:
+    - Beale, Sarah Sophia
+    - Beale, S. Sophia (Sarah Sophia)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '40353'
+    url: http://www.gutenberg.org/2009/agents/40353
+description: ''
+gutenberg_issued: '2012-06-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39989'
+  lccn: '01005164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'Church buildings -- France -- Paris'
+- !lcc 'NA'
+- !lcsh 'Paris (France) -- Buildings, structures, etc.'
+title: The Churches of Paris, from Clovis to Charles X
+url: http://www.gutenberg.org/ebooks/39989
