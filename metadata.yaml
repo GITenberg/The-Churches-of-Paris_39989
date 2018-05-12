@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '40353'
     url: http://www.gutenberg.org/2009/agents/40353
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39989#The-Churches-of-Paris
 gutenberg_issued: '2012-06-14'
 gutenberg_type: Text
 identifiers:
